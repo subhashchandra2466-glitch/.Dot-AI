@@ -1,0 +1,6 @@
+{
+  "name": "Dot AI",
+  "description": "A comprehensive messaging and AI chat application featuring live account generation, responsive Gemini visual intelligence, historical tracking, and a hidden social layer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
